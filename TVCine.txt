@@ -1,9 +1,0 @@
-#EXTM3U
-	#EXTINF:-1,TVC1
-http://iptv.temnet.pt:8000/live/gustavo/gustavo1/2.ts
-#EXTINF:-1,TVC2
-http://iptv.temnet.pt:8000/live/gustavo/gustavo1/29.ts
-#EXTINF:-1,TVC3
-http://iptv.temnet.pt:8000/live/gustavo/gustavo1/31.ts
-#EXTINF:-1,TVC4
-http://iptv.temnet.pt:8000/live/gustavo/gustavo1/30.ts
